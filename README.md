@@ -43,21 +43,21 @@ This project demonstrates a fusion system combining **mmWave radar** and **machi
 
 ### System Diagram
 
-![System Diagram](images/system_diagram.png)
+![System Diagram](/Mmwave_Project/Report&Images/Screenshot 2024-11-24 at 6.51.38 PM.png)
 
 ### Radar Data Output
 
-![Radar Output](images/radar_output.png)
+![Radar Output](/Mmwave_Project/Report&Images/Screenshot 2024-11-24 at 6.50.13 PM.png)
 
 ### Pedestrian Detection
 
-![Pedestrian Detection](images/pedestrian_detection.png)
+![Pedestrian Detection](/Mmwave_Project/Report&Images/Screenshot 2024-11-24 at 6.48.58 PM.png)
 
 ---
 
 ## Report
 
-For a detailed explanation of the project, including setup, methodology, and outputs, refer to the [Final Report (PDF)](FINAL_REPORT.pdf).
+For a detailed explanation of the project, including setup, methodology, and outputs, refer to the [Final Report (PDF)](</Mmwave_Project/Report&Images/Final_Rep/Published_Project(summary).pdf>).
 
 ---
 
