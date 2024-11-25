@@ -43,23 +43,21 @@ This project demonstrates a fusion system combining **mmWave radar** and **machi
 
 ### System Diagram
 
-![System Diagram](/Mmwave_Project/Report&Images/Screenshot 2024-11-24 at 6.51.38 PM.png)
+![System Diagram](https://github.com/mkanwal-iit/Mmwave_Project/blob/main/Report%26Images/Screenshot%202024-11-24%20at%206.51.38%E2%80%AFPM.png)
 
 ### Radar Data Output
 
-![Radar Output](/Mmwave_Project/Report&Images/Screenshot 2024-11-24 at 6.50.13 PM.png)
+![Radar Output](https://github.com/mkanwal-iit/Mmwave_Project/blob/main/Report%26Images/Screenshot%202024-11-24%20at%206.50.13%E2%80%AFPM.png)
 
 ### Pedestrian Detection
 
-![Pedestrian Detection](/Mmwave_Project/Report&Images/Screenshot 2024-11-24 at 6.48.58 PM.png)
+![Pedestrian Detection](https://github.com/mkanwal-iit/Mmwave_Project/blob/main/Report%26Images/Screenshot%202024-11-24%20at%206.48.58%E2%80%AFPM.png)
 
 ---
 
 ## Report
 
-For a detailed explanation of the project, including setup, methodology, and outputs, refer to the [Final Report (PDF)](</Mmwave_Project/Report&Images/Final_Rep/Published_Project(summary).pdf>).
-
----
+## For a detailed explanation of the project, including setup, methodology, and outputs, refer to the [Final Report (PDF)](https://github.com/mkanwal-iit/Mmwave_Project/blob/main/Report%26Images/Final_Rep/Published_Project%28summary%29.pdf).
 
 ## Citation
 
